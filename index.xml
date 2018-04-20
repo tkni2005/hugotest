@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>My New Post</title>
+      <title>This is my first hugo test</title>
       <link>https://tkni2005.github.io/hugotest/post/my-new-post/</link>
       <pubDate>Fri, 20 Apr 2018 16:33:23 +0900</pubDate>
       
       <guid>https://tkni2005.github.io/hugotest/post/my-new-post/</guid>
-      <description>testtest</description>
+      <description></description>
     </item>
     
   </channel>
