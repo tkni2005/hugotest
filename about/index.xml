@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on KTAJIMA TEST</title>
+    <link>https://tkni2005.github.io/hugotest/about/</link>
+    <description>Recent content in Abouts on KTAJIMA TEST</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Apr 2018 18:20:51 +0900</lastBuildDate>
+    
+	<atom:link href="https://tkni2005.github.io/hugotest/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://tkni2005.github.io/hugotest/about/about/</link>
+      <pubDate>Fri, 20 Apr 2018 18:20:51 +0900</pubDate>
+      
+      <guid>https://tkni2005.github.io/hugotest/about/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

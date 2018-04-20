@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tkni2005.github.io/hugotest/about/about/</loc>
+    <lastmod>2018-04-20T18:20:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tkni2005.github.io/hugotest/post/post3/</loc>
     <lastmod>2018-04-20T16:55:09+09:00</lastmod>
   </url>
@@ -13,13 +18,19 @@
   </url>
   
   <url>
+    <loc>https://tkni2005.github.io/hugotest/about/</loc>
+    <lastmod>2018-04-20T18:20:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tkni2005.github.io/hugotest/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tkni2005.github.io/hugotest/</loc>
-    <lastmod>2018-04-20T16:55:09+09:00</lastmod>
+    <lastmod>2018-04-20T18:20:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
