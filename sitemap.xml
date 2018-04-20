@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/tkni2005/hugotest/categories/</loc>
+    <loc>https://tkni2005.github.io/hugotest/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/tkni2005/hugotest/</loc>
+    <loc>https://tkni2005.github.io/hugotest/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/tkni2005/hugotest/tags/</loc>
+    <loc>https://tkni2005.github.io/hugotest/tags/</loc>
     <priority>0</priority>
   </url>
   
