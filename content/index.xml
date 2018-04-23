@@ -1,38 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KTAJIMA TEST</title>
-    <link>https://tkni2005.github.io/hugotest/</link>
-    <description>Recent content on KTAJIMA TEST</description>
+    <title>Contents on KTAJIMA TEST</title>
+    <link>https://tkni2005.github.io/hugotest/content/</link>
+    <description>Recent content in Contents on KTAJIMA TEST</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Apr 2018 16:55:09 +0900</lastBuildDate>
     
-	<atom:link href="https://tkni2005.github.io/hugotest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tkni2005.github.io/hugotest/content/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Post3</title>
-      <link>https://tkni2005.github.io/hugotest/post/post3/</link>
-      <pubDate>Fri, 20 Apr 2018 16:55:09 +0900</pubDate>
-      
-      <guid>https://tkni2005.github.io/hugotest/post/post3/</guid>
-      <description>はじめに これはテストです。
-テスト こんにちはさようなら
-test
-test
-hogehoge
-3</description>
-    </item>
-    
-    <item>
-      <title>This is my first hugo test</title>
-      <link>https://tkni2005.github.io/hugotest/post/my-new-post/</link>
-      <pubDate>Fri, 20 Apr 2018 16:33:23 +0900</pubDate>
-      
-      <guid>https://tkni2005.github.io/hugotest/post/my-new-post/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title></title>

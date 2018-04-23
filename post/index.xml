@@ -13,10 +13,10 @@
     
     <item>
       <title>Post3</title>
-      <link>https://tkni2005.github.io/hugotest/post3/</link>
+      <link>https://tkni2005.github.io/hugotest/post/post3/</link>
       <pubDate>Fri, 20 Apr 2018 16:55:09 +0900</pubDate>
       
-      <guid>https://tkni2005.github.io/hugotest/post3/</guid>
+      <guid>https://tkni2005.github.io/hugotest/post/post3/</guid>
       <description>はじめに これはテストです。
 テスト こんにちはさようなら
 test
@@ -27,10 +27,10 @@ hogehoge
     
     <item>
       <title>This is my first hugo test</title>
-      <link>https://tkni2005.github.io/hugotest/this-is-my-first-hugo-test/</link>
+      <link>https://tkni2005.github.io/hugotest/post/my-new-post/</link>
       <pubDate>Fri, 20 Apr 2018 16:33:23 +0900</pubDate>
       
-      <guid>https://tkni2005.github.io/hugotest/this-is-my-first-hugo-test/</guid>
+      <guid>https://tkni2005.github.io/hugotest/post/my-new-post/</guid>
       <description></description>
     </item>
     
