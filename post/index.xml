@@ -26,6 +26,15 @@ hogehoge
     </item>
     
     <item>
+      <title>Post2</title>
+      <link>https://tkni2005.github.io/hugotest/post/post2/</link>
+      <pubDate>Fri, 20 Apr 2018 16:38:42 +0900</pubDate>
+      
+      <guid>https://tkni2005.github.io/hugotest/post/post2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>This is my first hugo test</title>
       <link>https://tkni2005.github.io/hugotest/post/my-new-post/</link>
       <pubDate>Fri, 20 Apr 2018 16:33:23 +0900</pubDate>
